@@ -239,8 +239,11 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Hallo Fabian</h1>
+            <h1>Hello World</h1>
           </hgroup>
+		  <footer>
+			<h2>Goodbye</h2>
+		  </footer>
 </section>
 
 
